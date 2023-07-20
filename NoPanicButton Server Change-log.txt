@@ -1,0 +1,45 @@
+NoPanicButton Server Change-log
+
+Disabled
+- Disabled Onboarding to finish editing the channels. (07-19-2023)
+
+Created
+- Server Booster Category
+	- SB Text Channel
+	- SB Voice Channel
+- Subscription Cateogory
+	- Bronze Text 
+	- Bronze Voice 
+	- Silver Text
+	- Silver Voice
+	- Gold Text
+	- Gold Voice
+	- Platinum Text
+	- Platinum Voice
+	- Diamond Text
+	- Diamond Voice
+	- 
+- Added #sleepytime voice channel. 
+
+18+ Category
+Edited
+	- #general-possible-loud-sounds changed to "General Main"
+	- #gaming-setups changed to media channel
+
+Removed
+	-  Mental Health Category; #ranting, #life-questions, #mentalhealth
+	- #Crafting-Corner-Chatter; Unused
+	- Tiktok Sharing category #just-chatting #tt-sharing; this was removed to help realign this as a maker space, and to help keep the chats on topic with 
+	- Crafting Category and channels; #armorers, #jewelers, #welders, #cosplay, #artists, #food, #the-armory, #tradesmen, #mechanics, #blacksmiths, #yarn-slingers, #woodworkers, #digital-creators, #leatherworkers. 
+	- Gaming: #gameing-stream-gorey voice channel; unused
+	- #verified-fund-raisers unused
+	- #general-3, #general-4, #away-from-panic-button
+	- Community Contribution Category & Channels: #cc-announcements, #cc-a-n-a, #ticket-skittledragon, #ticket-houser-117; unused 
+	- #bots-in-the-server Unneeded
+	- #report-a-scam Unneeded / unused
+	- #Community-polls unused
+
+Merged 
+	- Mental Health Category Merged into one forum channel with separated tags. #ranting, #life-questions, #mentalhealth 
+	- Giveaways; #giveaway & #giveaway-submissions merged into one forum channel
+	- #misc-photos, #outdoors-non-gory, #meme-sfw merged to a media channel
